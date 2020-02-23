@@ -1,0 +1,105 @@
+.container{
+    margin-bottom: 50px;
+}
+
+.carousel-indicators li{
+    background-color: rgb(243, 113, 26);
+    height: 6px;
+}
+
+.navbar-brand img{
+    height: 50px;
+}
+
+#cr-bg{
+    background-color: rgb(191, 245, 245);
+    border-radius: 10px;
+}
+
+.row{
+    padding: 20px 40px;
+}
+
+.row p{
+    text-align: justify;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+}
+
+.see{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.see a{
+    text-decoration: none;
+    color: orangered;
+    margin-top: 20px;
+}
+
+#cat h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.bag h5{
+    text-align: center;
+}
+
+.bag{
+    box-shadow: 2px 2px 5px 5px lightgray;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.pr h5{
+    text-align: center;
+}
+
+.pr{
+    box-shadow: 2px 2px 5px 5px lightgray;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.ss{
+    box-shadow: 2px 2px 5px 5px lightgray;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.ss h5{
+    text-align: center;
+}
+
+.juta{
+    margin-left: 30px;
+}
+
+.bag1{
+    margin-left: 50px;
+}
+
+footer{
+    color: gray;
+    text-align: center;
+}
